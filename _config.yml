@@ -85,25 +85,25 @@ author:
   name             : "Rajith P"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Testing."
-  location         : "Somewhere"
+  location         : "Kerala"
   links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
+     #- label: "Your Website"
+     # icon: "fas fa-fw fa-link"
+     # url: "https://your-site.com"
     - label: "FaceBook"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.facebook.com/groups/326549171395987"
+     #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Facebook"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/groups/326549171395987"
 
 
 
