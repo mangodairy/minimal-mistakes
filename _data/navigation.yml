@@ -7,7 +7,7 @@ main:
   #- title: "Collections"
   #  url: /collection-archive/
   - title: "Home"
-    url: http://127.0.0.1:4000/
+    url: https://naadanmaavukal.in/
   - title: "മാവിനങ്ങൾ"
     url: /portfolio/
   - title: "Recipes"
