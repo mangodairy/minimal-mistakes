@@ -144,6 +144,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - docs/_posts/2017-11-28-post-exclude-search.md
+  - _posts/2017-11-28-post-exclude-search.md
 
 keep_files:
   - .git
