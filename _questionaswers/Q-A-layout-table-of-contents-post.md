@@ -1,7 +1,7 @@
 ---
 title: "പോളിഎംബ്രിയോണിക്  Vs മോണോഎംബ്രിയോണിക് വിത്തുകൾ"
 header:
-  image: https://practicalprimate.com/wp-content/uploads/2020/01/polyembryonic-vs-monoembryonic-mango-seeds.jpg 
+  image: Need to add 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
   - table of contents
@@ -12,14 +12,6 @@ toc_icon: "heart"
 
 മോണോഎംബ്രിയോണിക് (ഏകഭ്രുണം) , പോളിഎംബ്രിയോണിക് ( ബഹുബ്രൂണം ) എന്നീ പദങ്ങൾ മുമ്പ് കേട്ടിരിക്കാം, എന്താണ് അതുകൊണ്ട് ഉദേശിക്കുന്നത്? മോണോഎംബ്രിയോണിക് ഒരു വിത്തിൽ നിന്ന് ഒരേയൊരു തൈ ഉൽപാദിപ്പിക്കുന്നു. പോളിഎംബ്രിയോണിക് ഒന്നിൽ അതികം തൈകൾ ഉല്പാദിപ്പിക്കുന്ന വിത്താണ് , ഈ തൈകളിലൊന്ന് മാതൃവൃക്ഷത്തിന്റെ ക്ലോണുകളായിരിക്കും.
 ഓരോന്നിനും അവയുടെതായ ഗുണങ്ങളുണ്ട്, അപൂർവമാണെങ്കിലും, ഫലവൃക്ഷങ്ങൾ പോളിംബ്രിയോണിക് വിത്തുകൾ ഉൽ‌പാദിപ്പിക്കാറുണ്ട്.
-
-```yaml
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
 
 ## മോണോഎംബ്രിയോണിക് വിത്തുകൾ   (ഏകഭ്രുണം)
 
@@ -42,52 +34,10 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 ### Reference
 
-https://practicalprimate.com/ 
-നാടൻ മാവുകൾ facebook group 
-### Unordered Lists
+* https://practicalprimate.com/ 
+* നാടൻ മാവുകൾ facebook group 
 
-* Item one
-* Item two
-* Item three
+<div markdown="0"><a href="#" class="btn btn--success">Go back to the Top of the page </a></div>
 
-## Tables
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
 
-## Code Snippets
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn--success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
