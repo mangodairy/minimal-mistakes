@@ -145,7 +145,6 @@ exclude:
   - README
   - tmp
   - docs/_posts
-  - _posts
 
 keep_files:
   - .git
