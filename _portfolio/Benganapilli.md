@@ -1,6 +1,7 @@
 ---
 title: "ബങ്കനപ്പള്ളി"
 excerpt: "നല്ല സുഗന്ധം ഉള്ളതും ഇളം മഞ്ഞ നിറത്തിൽ കുറച്ചു  ജൂസി ആയി കാണപ്പെടുന്നു. മാങ്ങയിൽ നാരുകൾ അടങ്ങിയിട്ടുണ്ട്."
+show_date: true
 header:
   image: /assets/images/Banganapalli-700x200.jpg
   teaser: assets/images/Banganapalli-700x700.jpg
