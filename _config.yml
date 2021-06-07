@@ -300,3 +300,12 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _questionaswers
+  - scope:
+      path: ""
+      type: questionaswers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
