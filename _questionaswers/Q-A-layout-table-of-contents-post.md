@@ -1,12 +1,12 @@
 ---
-title: "പോളിഎംബ്രിയോണിക്  Vs മോണോഎംബ്രിയോണിക് വിത്തുകൾ"
+title: "പോളിഎംബ്രിയോണിക്  vs മോണോഎംബ്രിയോണിക് വിത്തുകൾ"
 header:
-  image: Need to add 
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/images/Banganapalli-700x200.jpg
+  
 tags:
   - table of contents
 toc: true
-toc_label: "Unique Title"
+toc_label: " "
 toc_icon: "heart"
 ---
 
