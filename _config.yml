@@ -255,7 +255,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  questionaswers:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
