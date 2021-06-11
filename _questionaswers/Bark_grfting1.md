@@ -44,18 +44,6 @@ toc_icon: "heart"
 
 * നാടൻ മാവുകൾ facebook group
 
----
-gallery:
-  - url: /assets/images/banganapalli-01.jpg
-    image_path: assets/images/banganapalli-01.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/banganapalli-02.jpg
-    image_path: assets/images/banganapalli-02.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/banganapalli-03.jpg
-    image_path: assets/images/banganapalli-03.jpg
-    alt: "placeholder image 3"```
-...
 
 <div markdown="0"><a href="#" class="btn btn--success">Go back to the Top of the page </a></div>
 
