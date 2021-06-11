@@ -43,6 +43,9 @@ gallery:
   - url: /assets/images/BarkCrafting/image-10.jpg
     image_path: assets/images/BarkCrafting/image-10.jpg
     alt: "placeholder image 10"
+  - url: /assets/images/BarkCrafting/image-11.jpg
+    image_path: assets/images/BarkCrafting/image-11.jpg
+    alt: "placeholder image 11"
 tags:
   - table of contents
 toc: true
