@@ -12,6 +12,16 @@ sidebar:
     text: "Written by"
   - title: "Rajith P"
     text: "Image from നാടൻ മാവുകൾ facebook group"
+gallery:
+  - url: /assets/images/banganapalli-01.jpg
+    image_path: assets/images/banganapalli-01.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/banganapalli-02.jpg
+    image_path: assets/images/banganapalli-02.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/banganapalli-03.jpg
+    image_path: assets/images/banganapalli-03.jpg
+    alt: "placeholder image 3"
 tags:
   - table of contents
 toc: true
