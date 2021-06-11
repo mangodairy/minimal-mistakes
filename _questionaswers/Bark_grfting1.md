@@ -13,15 +13,24 @@ sidebar:
   - title: "Rajith P"
     text: "Image from നാടൻ മാവുകൾ facebook group"
 gallery:
-  - url: /assets/images/banganapalli-01.jpg
-    image_path: assets/images/banganapalli-01.jpg
+  - url: /assets/images/BarkCrafting/image-01.jpg
+    image_path: assets/images/BarkCrafting/image-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/banganapalli-02.jpg
-    image_path: assets/images/banganapalli-02.jpg
+  - url: /assets/images/BarkCrafting/image-02.jpg
+    image_path: assets/images/BarkCrafting/image-02.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/banganapalli-03.jpg
-    image_path: assets/images/banganapalli-03.jpg
+  - url: /assets/images/BarkCrafting/image-03.jpg
+    image_path: assets/images/BarkCrafting/image-03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/BarkCrafting/image-04.jpg
+    image_path: assets/images/BarkCrafting/image-04.jpg
+    alt: "placeholder image 4"
+  - url: /assets/images/BarkCrafting/image-05.jpg
+    image_path: assets/images/BarkCrafting/image-05.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/BarkCrafting/image-06.jpg
+    image_path: assets/images/BarkCrafting/image-06.jpg
+    alt: "placeholder image 6"
 tags:
   - table of contents
 toc: true
