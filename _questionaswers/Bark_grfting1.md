@@ -31,6 +31,51 @@ gallery:
   - url: /assets/images/BarkCrafting/image-06.jpg
     image_path: assets/images/BarkCrafting/image-06.jpg
     alt: "placeholder image 6"
+ - url: /assets/images/BarkCrafting/image-07.jpg
+    image_path: assets/images/BarkCrafting/image-07.jpg
+    alt: "placeholder image 7"
+  - url: /assets/images/BarkCrafting/image-08.jpg
+    image_path: assets/images/BarkCrafting/image-08.jpg
+    alt: "placeholder image 8"
+  - url: /assets/images/BarkCrafting/image-09.jpg
+    image_path: assets/images/BarkCrafting/image-09.jpg
+    alt: "placeholder image 9"
+  - url: /assets/images/BarkCrafting/image-10.jpg
+    image_path: assets/images/BarkCrafting/image-10.jpg
+    alt: "placeholder image 10"
+  - url: /assets/images/BarkCrafting/image-11.jpg
+    image_path: assets/images/BarkCrafting/image-11.jpg
+    alt: "placeholder image 11"
+  - url: /assets/images/BarkCrafting/image-12.jpg
+    image_path: assets/images/BarkCrafting/image-12.jpg
+    alt: "placeholder image 12"
+  - url: /assets/images/BarkCrafting/image-13.jpg
+    image_path: assets/images/BarkCrafting/image-13.jpg
+    alt: "placeholder image 13"
+  - url: /assets/images/BarkCrafting/image-14.jpg
+    image_path: assets/images/BarkCrafting/image-14.jpg
+    alt: "placeholder image 14"
+  - url: /assets/images/BarkCrafting/image-15.jpg
+    image_path: assets/images/BarkCrafting/image-15.jpg
+    alt: "placeholder image 15"
+  - url: /assets/images/BarkCrafting/image-16.jpg
+    image_path: assets/images/BarkCrafting/image-16.jpg
+    alt: "placeholder image 16"
+ - url: /assets/images/BarkCrafting/image-17.jpg
+    image_path: assets/images/BarkCrafting/image-17.jpg
+    alt: "placeholder image 17"
+  - url: /assets/images/BarkCrafting/image-18.jpg
+    image_path: assets/images/BarkCrafting/image-18.jpg
+    alt: "placeholder image 18"
+  - url: /assets/images/BarkCrafting/image-19.jpg
+    image_path: assets/images/BarkCrafting/image-19.jpg
+    alt: "placeholder image 19"
+  - url: /assets/images/BarkCrafting/image-20.jpg
+    image_path: assets/images/BarkCrafting/image-11.jpg
+    alt: "placeholder image 20"
+  - url: /assets/images/BarkCrafting/image-21.jpg
+    image_path: assets/images/BarkCrafting/image-22.jpg
+    alt: "placeholder image 22"
 tags:
   - table of contents
 toc: true
@@ -49,7 +94,7 @@ toc_icon: "heart"
 
  ഈ ചിത്രങ്ങൾ താങ്കളെ ചിലപ്പോൾ നന്നായി ഗ്രാഫ്റ്റ് ചെയ്യാൻ പഠിപ്പിക്കും...... S T Ravi
 
-{% include gallery caption="Banganapalli sample gallery ." %}
+{% include gallery caption="Bark Grafting gallery ." %}
 ## ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ 
 
 മുറിച്ച ഭാഗത്ത് നന്നായി  മെഴുക് അല്ലെങ്കിൽ ടാർ പോലെയുള്ളവ ഉപയോഗിച്ച് കോട്ട് ചെയ്യുന്നത്  വരൾച്ചമരത്തിലെ വരൾച്ച തടയുകയയും ഫങ്കസ് ബാധ ഓസോഴിവാക്കുന്നതിനും സഹായകമാകും  ( പെയിന്റ് ചെയ്യുന്നത്  നല്ലതല്ല ).ഈ സമയത്തു്  സയോണിൽ പൂക്കൾ ഉണ്ടായെന്ന് അത്  ശ്രദ്ധയോടെ നീക്കം ചെയ്യേണ്ടതാണ് .
