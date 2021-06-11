@@ -67,9 +67,6 @@ gallery:
   - url: /assets/images/BarkCrafting/image-18.jpg
     image_path: assets/images/BarkCrafting/image-18.jpg
     alt: "placeholder image 18"
-  - url: /assets/images/BarkCrafting/image-19.jpg
-    image_path: assets/images/BarkCrafting/image-19.jpg
-    alt: "placeholder image 19"
   - url: /assets/images/BarkCrafting/image-20.jpg
     image_path: assets/images/BarkCrafting/image-20.jpg
     alt: "placeholder image 20"
