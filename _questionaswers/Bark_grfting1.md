@@ -2,9 +2,9 @@
 title: "മാവിൽ ബാർക് ക്രഫ്റ്റിംങ് ചെയ്യുന്ന രീതി "
 header:
   image: /assets/images/BarkCrafting/image-22.jpg
+  teaser: /assets/images/BarkCrafting/image-22.jpg
   excerpt: "റൂട്ട്സ്റ്റോക്ക് സയോൺ മെറ്റീരിയലിനേക്കാൾ വളരെ വലുതാകുമ്പോൾ ഈ ഗ്രാഫ്റ്റ് ഉപയോഗിക്കുന്നു. പക്ഷെ ഇതു  വളരെ ശ്രദ്ധിച്ചു ചെയ്യേണ്ട ഒരു ഗ്രാഫ്റ്റിങ് രീതിയാണ് ."
   show_date: true
-
 sidebar:
   - title: "Bark Grafting"
     image: /assets/images/BarkCrafting/image-22.jpg
