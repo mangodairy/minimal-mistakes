@@ -29,7 +29,6 @@ gallery:
     image_path: /assets/images/BarkCrafting/image-04.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
----
 tags:
   - table of contents
 toc: true
