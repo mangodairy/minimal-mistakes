@@ -31,15 +31,6 @@ gallery:
   - url: /assets/images/BarkCrafting/image-06.jpg
     image_path: assets/images/BarkCrafting/image-06.jpg
     alt: "placeholder image 6"
- - url: /assets/images/BarkCrafting/image-07.jpg
-    image_path: assets/images/BarkCrafting/image-07.jpg
-    alt: "placeholder image 7"
-  - url: /assets/images/BarkCrafting/image-08.jpg
-    image_path: assets/images/BarkCrafting/image-08.jpg
-    alt: "placeholder image 8"
-  - url: /assets/images/BarkCrafting/image-09.jpg
-    image_path: assets/images/BarkCrafting/image-09.jpg
-    alt: "placeholder image 9"
 tags:
   - table of contents
 toc: true
