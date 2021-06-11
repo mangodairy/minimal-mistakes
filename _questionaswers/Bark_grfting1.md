@@ -12,23 +12,6 @@ sidebar:
     text: "Written by"
   - title: "Rajith P"
     text: "Image from നാടൻ മാവുകൾ facebook group"
-gallery:
-  - url: /assets/images/BarkCrafting/image-01.jpg
-    image_path: /assets/images/BarkCrafting/image-01.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/BarkCrafting/image-02.jpg
-    image_path: /assets/images/BarkCrafting/image-02.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/BarkCrafting/image-03.jpg
-    image_path: /assets/images/BarkCrafting/image-03.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/BarkCrafting/image-04.jpg
-    image_path: /assets/images/BarkCrafting/image-04.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 tags:
   - table of contents
 toc: true
@@ -50,6 +33,33 @@ toc_icon: "heart"
 ## pictures from 
 
 * നാടൻ മാവുകൾ facebook group
+
+
+---
+
+These are gallery tests for image wrapped in `<figure>` elements.
+
+To place a gallery add the necessary YAML Front Matter:
+
+```yaml
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+```
 
 
 <div markdown="0"><a href="#" class="btn btn--success">Go back to the Top of the page </a></div>
