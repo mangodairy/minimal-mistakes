@@ -58,6 +58,27 @@ gallery:
   - url: /assets/images/BarkCrafting/image-15.jpg
     image_path: assets/images/BarkCrafting/image-15.jpg
     alt: "placeholder image 15"
+  - url: /assets/images/BarkCrafting/image-16.jpg
+    image_path: assets/images/BarkCrafting/image-16.jpg
+    alt: "placeholder image 16"
+  - url: /assets/images/BarkCrafting/image-17.jpg
+    image_path: assets/images/BarkCrafting/image-17.jpg
+    alt: "placeholder image 17"
+  - url: /assets/images/BarkCrafting/image-18.jpg
+    image_path: assets/images/BarkCrafting/image-18.jpg
+    alt: "placeholder image 18"
+  - url: /assets/images/BarkCrafting/image-19.jpg
+    image_path: assets/images/BarkCrafting/image-19.jpg
+    alt: "placeholder image 19"
+  - url: /assets/images/BarkCrafting/image-20.jpg
+    image_path: assets/images/BarkCrafting/image-20.jpg
+    alt: "placeholder image 20"
+  - url: /assets/images/BarkCrafting/image-21.jpg
+    image_path: assets/images/BarkCrafting/image-21.jpg
+    alt: "placeholder image 21"
+  - url: /assets/images/BarkCrafting/image-22.jpg
+    image_path: assets/images/BarkCrafting/image-22.jpg
+    alt: "placeholder image 22"
 tags:
   - table of contents
 toc: true
