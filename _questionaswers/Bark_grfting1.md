@@ -29,6 +29,7 @@ gallery:
     image_path: /assets/images/BarkCrafting/image-04.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+---
 tags:
   - table of contents
 toc: true
@@ -51,10 +52,6 @@ toc_icon: "heart"
 
 * നാടൻ മാവുകൾ facebook group
 
-### Reference
-
-* https://practicalprimate.com/ 
-* നാടൻ മാവുകൾ facebook group 
 
 <div markdown="0"><a href="#" class="btn btn--success">Go back to the Top of the page </a></div>
 
