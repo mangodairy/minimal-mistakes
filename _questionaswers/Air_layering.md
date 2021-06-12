@@ -1,13 +1,13 @@
 ---
 title: "എയർ ലയറിങ്  "
 header:
-  image: /assets/images/BarkCrafting/image-header.png
-  teaser: /assets/images/BarkCrafting/image-header.png
+  image: /assets/images/Airlayering/image-header.png
+  teaser: /assets/images/Airlayering/image-header.png
   excerpt: "എയർ ലേയറിംഗ് വഴി നമുക്ക് ഫലങ്ങൾ  വേഗത്തിൽ ലഭിക്കും പക്ഷേ ചില ന്യൂനതകൾ ഉണ്ട് ."
   show_date: true
 sidebar:
   - title: "Bark Grafting"
-    image: //assets/images/Airlayering/image-01.jpg
+    image: /assets/images/Airlayering/image-01.jpg
     image_alt: "logo"
     text: "Written by"
   - title: "Rajith P"
@@ -16,8 +16,8 @@ gallery:
   - url: /assets/images/Airlayering/image-01.jpg
     image_path: assets/images/Airlayering/image-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/BarkCrafting/image-02.jpg
-    image_path: assets/images/BarkCrafting/image-02.jpg
+  - url: /assets/images/Airlayering/image-02.jpg
+    image_path: assets/images/Airlayering/image-02.jpg
     alt: "placeholder image 2"
  
 tags:
