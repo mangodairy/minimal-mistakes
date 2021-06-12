@@ -16,8 +16,8 @@ gallery:
   - url: /assets/images/Airlayering/image-01.jpg
     image_path: assets/images/Airlayering/image-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/Airlayering/image-02.jpg
-    image_path: assets/images/Airlayering/image-02.jpg
+  - url: /assets/images/Airlayering/image-02.png
+    image_path: assets/images/Airlayering/image-02.png
     alt: "placeholder image 2"
  
 tags:
