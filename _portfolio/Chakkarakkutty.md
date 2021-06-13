@@ -27,7 +27,10 @@ gallery:
     alt: "placeholder image 4"
   - url: /assets/images/ChakkaraKutty/image-05.jpg
     image_path: assets/images/ChakkaraKutty/image-05.jpg
-    alt: "placeholder image 4"
+    alt: "placeholder image 5"
+  - url: /assets/images/ChakkaraKutty/image-06.jpeg
+    image_path: assets/images/ChakkaraKutty/image-06.jpeg
+    alt: "placeholder image 6"
 ---
 
 കാണാൻ ഭംഗിയുള്ള ഇത്തിരിക്കുഞ്ഞൻ മാമ്പഴമാണ് ‘ചക്കരക്കുട്ടി’.കോഴിമുട്ടയുടെ  വലിപ്പമേയുള്ളു 
