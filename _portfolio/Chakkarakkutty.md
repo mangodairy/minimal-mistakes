@@ -25,8 +25,8 @@ gallery:
   - url: /assets/images/ChakkaraKutty/image-04.jpeg
     image_path: assets/images/ChakkaraKutty/image-04.jpeg
     alt: "placeholder image 4"
-  - url: /assets/images/ChakkaraKutty/image-05.jpeg
-    image_path: assets/images/ChakkaraKutty/image-05.jpeg
+  - url: /assets/images/ChakkaraKutty/image-05.jpg
+    image_path: assets/images/ChakkaraKutty/image-05.jpg
     alt: "placeholder image 4"
 ---
 
