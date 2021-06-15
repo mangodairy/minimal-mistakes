@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image (External URL)"
 header:
-  image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
+  image: https://docs.google.com/presentation/d/19Wo-hgb2dWxPZHmmtqW6vjlDrt-XtspJLkHYW5PihBA/edit#slide=id.p
 categories:
   - Layout
   - Uncategorized
