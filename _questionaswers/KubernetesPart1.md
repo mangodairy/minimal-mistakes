@@ -12,12 +12,9 @@ sidebar:
   - title: "Rajith P"
     text: "Introduction to Kubernetes"
 gallery:
-  - url: /assets/images/Airlayering/image-01.jpg
+  - url: /assets/images/Airlayering/image-header.png
     image_path: assets/images/Airlayering/image-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/Airlayering/image-02.png
-    image_path: assets/images/Airlayering/image-02.png
-    alt: "placeholder image 2"
  
 tags:
   - table of contents
@@ -28,6 +25,7 @@ toc_icon: "heart"
 
 ഒരു തണ്ടിലോ  ശാഖയിലേ കുറച്ചുഭാഗം തൊലി കളഞ്ഞ ശേഷം അവിടെ നനവുള്ള ഒരു മാധ്യമം ഉപയോഗിച്ച് കെട്ടിവെച്ചു വേരിന്റെ രൂപീകരണം ഉത്തേജിപ്പിക്കുകയും ആ തണ്ടിനെ മുറിച്ചെടുത്തു  ഒരു സ്വതന്ത്ര സസ്യമായി വളർത്തുകയും ചെയ്യുംന്ന രീതിയാണ് എയർ ലേയറിംങ് 
 
+{% include gallery caption="Air layering gallery ." %}
 
 ## Introduction
 
