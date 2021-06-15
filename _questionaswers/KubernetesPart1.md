@@ -50,6 +50,7 @@ When you are looking into Kubernetes from an infrastructure perspective you shou
 
 ## What is Kubernetes?
 
+It is a container orchestration tool, hope you are already familiar with docker if not, please have some basic understanding of docker before getting into the Kubernetes. Like Kubernetes we have  Mesos and docker swarm which can act similar to a Kubernetes cluster, the word cluster is not the right fit here, for ease of understanding I am using the word cluster however the right fit is container orchestrator.
 
 ## Why Kubernetes?
 
