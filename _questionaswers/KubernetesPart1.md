@@ -25,17 +25,19 @@ toc_icon: "Introduction to Kubernetes"
 
 ## Introduction
 Kubernetes is a container orchestrator which automates container-based application deployment. It also helps in the auto-scaling of container-based workloads with the help of pods. It is taking over the market mainly because of the below features.
-	* Speed of deployment
-	* Quicker upgrade and rollback 
-	* Quicker recovery 
+
+* Speed of deployment
+* Quicker upgrade and rollback 
+* Quicker recovery 
+
 There are many attractive features included in Kubernetes we will go through it.
 
 Kubernetes is also known as K8s the abbreviation k8s came because in the word Kubernetes the letter 'k' followed by 8 letters ( that is ubernete ) and it ends with s. 
 It is,
-       K - ubernete - s 
-       k -  8       - s 
-       k    8         s
-       k8s
+*	K - ubernete - s 
+*	k -  8       - s 
+*	k    8         s
+*	k8s
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/kuberneties/IntroductiontoKubernetes.png)
 
