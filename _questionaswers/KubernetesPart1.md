@@ -41,11 +41,12 @@ It is,
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/kuberneties/IntroductiontoKubernetes.png)
 
-
-
 ## Prerequisite to start Kubernetes?
 
-
+When you are looking into Kubernetes from an infrastructure perspective you should have a basic understanding of the below-listed items. Without the basic knowledge of this, your journey will be difficult. 
+* Basic understanding of Docker
+* Familiar with Linux command line operation.
+* Basic idea about the networking concepts.
 
 ## What is Kubernetes?
 
