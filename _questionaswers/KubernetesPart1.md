@@ -6,7 +6,7 @@ header:
   show_date: true
 sidebar:
   - title: "Introduction to Kubernetes"
-    image: /assets/images/kuberneties/Introduction to Kubernetes.png
+    image: /assets/images/kuberneties/IntroductiontoKubernetes.png
     image_alt: "logo"
     text: "Written by"
   - title: "Rajith P"
@@ -27,7 +27,7 @@ toc_icon: "heart"
 
 {% include gallery caption="Air layering gallery ." %}
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Introduction to Kubernetes.png)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/IntroductiontoKubernetes.png)
 
 ## Introduction
 
