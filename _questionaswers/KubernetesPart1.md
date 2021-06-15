@@ -27,7 +27,7 @@ toc_icon: "heart"
 
 {% include gallery caption="Air layering gallery ." %}
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/IntroductiontoKubernetes.png)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/kuberneties/IntroductiontoKubernetes.png)
 
 ## Introduction
 
