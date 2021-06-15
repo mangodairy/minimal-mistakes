@@ -6,16 +6,12 @@ header:
   show_date: true
 sidebar:
   - title: "Introduction to Kubernetes"
-    image: /assets/images/kuberneties/IntroductiontoKubernetes.png
+    image: /assets/images/kuberneties/KubernetesSidebar.png
     image_alt: "logo"
     text: "Written by"
   - title: "Rajith P"
     text: "Introduction to Kubernetes"
-gallery:
-  - url: /assets/images/Airlayering/image-header.png
-    image_path: assets/images/Airlayering/image-01.jpg
-    alt: "placeholder image 1"
- 
+
 tags:
   - table of contents
 toc: true
