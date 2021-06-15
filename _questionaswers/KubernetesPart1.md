@@ -25,8 +25,6 @@ toc_icon: "heart"
 
 ഒരു തണ്ടിലോ  ശാഖയിലേ കുറച്ചുഭാഗം തൊലി കളഞ്ഞ ശേഷം അവിടെ നനവുള്ള ഒരു മാധ്യമം ഉപയോഗിച്ച് കെട്ടിവെച്ചു വേരിന്റെ രൂപീകരണം ഉത്തേജിപ്പിക്കുകയും ആ തണ്ടിനെ മുറിച്ചെടുത്തു  ഒരു സ്വതന്ത്ര സസ്യമായി വളർത്തുകയും ചെയ്യുംന്ന രീതിയാണ് എയർ ലേയറിംങ് 
 
-{% include gallery caption="Air layering gallery ." %}
-
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/kuberneties/IntroductiontoKubernetes.png)
 
 ## Introduction
