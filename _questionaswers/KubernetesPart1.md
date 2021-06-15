@@ -50,12 +50,19 @@ It is a container orchestration tool, hope you are already familiar with docker 
 
 ## Why Kubernetes?
 
-* Speed of deployment		-> Reduces the wait time minimal time delay between developers hand to Production.
+The reason behind the adoption of Kubernetes is because of the below factors,
 
-* Quicker upgrade and rollback -> An easy and quick way to upgrade and roll back the application. ( Version changes will not take much time ). 
+### Speed of deployment
+ 
+ Reduces the wait time minimal time delay between developers hand to Production.
 
-* Quicker recovery 		-> If the application fails ( I mean in case of any pod failure ), Since Kubernetes deployment has a self-healing option on it, it recreates the failed pod.
+### Quicker upgrade and rollback
 
+ An easy and quick way to upgrade and roll back the application. ( Version changes will not take much time ). 
+
+### Quicker recovery
+
+ If the application fails ( I mean in case of any pod failure ), Since Kubernetes deployment has a self-healing option on it, it recreates the failed pod.
 
 ## Kubernetes Architecture
 
