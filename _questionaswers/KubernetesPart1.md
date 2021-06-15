@@ -6,7 +6,7 @@ header:
   show_date: true
 sidebar:
   - title: "Introduction to Kubernetes"
-    image: /assets/images/Airlayering/image-01.jpg
+    image: /assets/images/kuberneties/Introduction to Kubernetes.png
     image_alt: "logo"
     text: "Written by"
   - title: "Rajith P"
