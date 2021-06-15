@@ -23,7 +23,7 @@ Standard image with no width modifier classes applied.
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
 ```
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/HomePageImage-02.png)
 
 Image that fills page content container by adding the `.full` class with:
 
@@ -36,7 +36,7 @@ Image that fills page content container by adding the `.full` class with:
 **or Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/HomePageImage-02.png)
 {: .full}{% endraw %}
 ```
 
