@@ -17,6 +17,7 @@ tags:
 toc: true
 toc_label: " "
 toc_icon: "Introduction to Kubernetes"
+toc_sticky: true
 ---
 
 ## Introduction
@@ -26,7 +27,7 @@ Kubernetes is a container orchestrator which automates container-based applicati
 * Speed of deployment
 * Quicker upgrade and rollback 
 * Quicker recovery 
-{: style="text-align: center;"}
+{: style="text-align: left;"}
 There are many attractive features included in Kubernetes we will go through it.
 {: style="text-align: left;"}
 Kubernetes is also known as K8s the abbreviation k8s came because in the word Kubernetes the letter 'k' followed by 8 letters ( that is ubernete ) and it ends with s. 
@@ -35,7 +36,7 @@ It is,
 *	k -  8       - s 
 *	k    8         s
 *	k8s
-{: style="text-align: center;"}
+{: style="text-align: left;"}
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/kuberneties/IntroductiontoKubernetes.png)
 
 ## Prerequisite to start Kubernetes?
