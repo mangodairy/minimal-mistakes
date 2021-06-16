@@ -22,7 +22,7 @@ toc_sticky: true
 
 ## Introduction
 Kubernetes is a container orchestrator which automates container-based application deployment. It also helps in the auto-scaling of container-based workloads with the help of pods. It is taking over the market mainly because of the below features.
-{: style="text-align: left;"}
+{: style="text-align: justify;"}
 
 * Speed of deployment
 * Quicker upgrade and rollback 
