@@ -103,7 +103,7 @@ This figure gives you an illustration of Kubernetes architecture. It shows how a
 
 ## Kubernetes in action.
 
-We will take this scenario
+**We will take this scenario**
 1. Our developer developed a microservice.
 2. We will start 4 containers with this docker image.
 3. Place an internal load balancer in front of these containers.
@@ -112,7 +112,7 @@ We will take this scenario
 6. Place a public load balancer in front of these containers.
 7. Today is new year day traffic spikes.
 8. Scale the number of containers now, we will increase it to 10.
-9. Our Dev team added new fetchers to the application........ 
+9. Our Dev team added new fetchers to the application.
 10. The business wanted to implement it now since it is the new year day.
 11. We will implement the change  by Keep serving the existing  requests during the upgrade without any interruption to the end-user
 
