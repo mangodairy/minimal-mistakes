@@ -87,10 +87,19 @@ This figure gives you an illustration of Kubernetes architecture. It shows how a
 
 ## Kubernetes Components
 
+### Control Plane Components ( Master node )
 
-## Control Plane Components
+* kube-apiserver
+* etcd
+* kube-scheduler
+* kube-controller-manager
 
-## Worker Node Components
+### Worker Node Components
+
+* kubelet
+* kube-proxy 
+* Container runtime 
+
 
 ## Kubernetes in action. 
 
