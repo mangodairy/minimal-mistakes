@@ -75,6 +75,8 @@ If the application fails ( I mean in case of any pod failure ), Since Kubernetes
 ## Kubernetes Architecture
 
 This figure gives you an illustration of Kubernetes architecture. It shows how a Kubernetes cluster with all the components tied together.
+
+### Kubernetes Architecture Diagram
 {: style="text-align: justify;"}
 
 <figure>
