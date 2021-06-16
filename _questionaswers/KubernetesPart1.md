@@ -89,8 +89,11 @@ This figure gives you an illustration of Kubernetes architecture. It shows how a
 
 ### Control Plane Components ( Master node )
 
-* kube-apiserver
-<script src="https://kubernetes.io/docs/concepts/overview/components/#kube-apiserver"></script>
+* [kube-apiserver](https://kubernetes.io/docs/concepts/overview/components/#kube-apiserver)
+
+[kube-apiserver](https://kubernetes.io/docs/concepts/overview/components/#kube-apiserver)
+
+[link](http://apple.com "Apple"
 * etcd
 <script src="https://kubernetes.io/docs/concepts/overview/components/#etcd"></script>
 * kube-scheduler
