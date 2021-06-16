@@ -1,7 +1,8 @@
 ---
 title: "Introduction to Kubernetes "
 header:
-  teaser: /assets/images/Airlayering/image-header.png
+  overlay_color: "#80aaff              "
+  teaser: /assets/images/kuberneties/IntroductiontoKubernetes.png
   excerpt: "Introduction to Kubernetes."
   show_date: true
 sidebar:
