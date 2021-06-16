@@ -101,7 +101,21 @@ This figure gives you an illustration of Kubernetes architecture. It shows how a
 * [Container runtime](https://kubernetes.io/docs/concepts/overview/components/#container-runtime)
 
 
-## Kubernetes in action. 
+## Kubernetes in action.
+
+We will take this scenario
+1. Our developer developed a microservice.
+2. We will start 4 containers with this docker image.
+3. Place an internal load balancer in front of these containers.
+4. After starting we understood 4 images are not sufficient for serving the traffic.
+5. We will scale it to 6.
+6. Place a public load balancer in front of these containers.
+7. Today is new year day traffic spikes.
+8. Scale the number of containers now, we will increase it to 10.
+9. Our Dev team added new fetchers to the application........ 
+10. The business wanted to implement it now since it is the new year day.
+11. We will implement the change  by Keep serving the existing  requests during the upgrade without any interruption to the end-user
+
 
 
 
