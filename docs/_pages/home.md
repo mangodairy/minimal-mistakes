@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
-  കേരളത്തിലെ നാടൻ  മാവുകൾ...<br />
+  കേരളത്തിലെ നാടൻ  മാവുകൾ...
   <small>The website is under construction, the appearance and content will be changing soon...</a></small>
 feature_row:
   - image_path:   /assets/images/banganapalli-02.jpg
