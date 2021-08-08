@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   കേരളത്തിലെ നാടൻ  മാവുകൾ...<br />
   <small>The website is under construction, the appearance and content will be changing soon...</a></small>
@@ -19,14 +16,14 @@ feature_row:
     url: "https://www.naadanmaavukal.in/portfolio/Benganapilli/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/Neelam-02jpg
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "പോളിഎംബ്രിയോണിക്  vs മോണോഎംബ്രിയോണിക് വിത്തുകൾ..."
     url: "https://www.naadanmaavukal.in/questionaswers/monoembryonic-vs-Polyembryonic/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/Airlayering/image-01.jpg
     alt: "100% free"
     title: "എയർ ലയറിങ്"
     excerpt: "എയർ ലയറിങ്"
