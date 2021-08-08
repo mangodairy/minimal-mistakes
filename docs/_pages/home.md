@@ -10,13 +10,13 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   കേരളത്തിലെ നാടൻ  മാവുകൾ...<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.23.0">Latest release v4.23.0</a></small>
+  <small>The website is under construction, the appearance and content will be changing soon...</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path:   /assets/images/banganapalli-01.jpg
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "ബംഗൻപള്ളി "
+    excerpt: "ബംഗൻപള്ളി  കുടുതലായി കണ്ടുവരുന്നത് ആന്ധ്രാപ്രദേശിലാണ്.അവ നല്ല സുഗന്ധം ഉള്ളതും ഇളം മഞ്ഞ നിറത്തിൽ കുറച്ചു  ജൂസി ആയി കാണപ്പെടുന്നു. മാങ്ങയിൽ നാരുകൾ അടങ്ങിയിട്ടുണ്ട്."
+    url: "https://www.naadanmaavukal.in/portfolio/Benganapilli/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
